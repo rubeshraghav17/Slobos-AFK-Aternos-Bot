@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK",
   "bot-account": {
     "username": "loosu",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "rubeshda1021-OTPt.aternos.me",
-    "port": 53234,
+    "ip": "rubeshda1021-AhzI.aternos.me",
+    "port":38250,
     "version": "",
     "try-creative": false
   },
