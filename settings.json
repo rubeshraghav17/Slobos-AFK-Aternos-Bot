@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "rubeshda1021-AhzI.aternos.me",
+    "ip": "rubeshda1021-AhzI.aternos.me:38250",
     "port":38250,
     "version": "",
     "try-creative": false
