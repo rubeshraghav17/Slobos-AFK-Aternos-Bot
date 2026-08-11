@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "rubeshda1021-uaSI.aternos.me",
-    "port":56130,
+    "ip": "rubeshda1021.aternos.me:",
+    "port": 45613,
     "version": "1.18.1",
     "try-creative": false
   },
